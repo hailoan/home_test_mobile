@@ -9,7 +9,13 @@
 #### Trong bài này, chúng ta sẽ mô phỏng thực hiện việc đăng ký sử dụng app.
 <img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/0.%20Overview.png" alt="Sapo Logo" max-width="100%" height="250px"/> 
 
-* Hiển thị màn đăng ký với 3 trường. Username, Password, Repeat Password.
+* Hiển thị màn đăng ký. Kiểm tra điều kiện:  
+```swift
+- username > 8 ký tự.
+- password > 8 ký tự. Có chữ hoa, chữ thường, và ký tự đặc biệt.
+- repeat password phải trùng với password
+```
+<img  src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/1.%20Username%20Password.jpg" alt="Sapo Logo" max-width="100%" height="400px"/> 
 
 
 * Kiểm tra các trường nhập vào và chuyển sang màn chọn Tỉnh thành

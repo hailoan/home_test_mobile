@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/Sapo-logo-noel.svg" alt="Sapo Logo" width="36" height="36"> 
 
 # Home Test for iOS Developer or Android Developer
 Chào mừng các bạn đến với công ty Sapo.

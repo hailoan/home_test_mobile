@@ -23,16 +23,22 @@
 * Load dữ liệu các Quận huyện từ [Link](https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/Districts.json) và hiển thị lên như hình vẽ 
 
 <img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/3.%20Dictrict%20Selection.jpg" alt="Sapo Logo" max-width="100%" height="400px"/>
-* Khi chọn một tỉnh thành, app sẽ hiển thị các quận huyện ở trong tỉnh thành đó.
-* Khi Back lại màn chọn tỉnh thành, cell được chọn lúc trước vẫn hiển thị ở trạng thái Selected.
 
-* Lựa chọn giới tính bằng 1 combo 3 nút radio button: Nam, Nữ, Khác
-* Sử dụng PickerView để lựa chọn tuổi. Bắt đầu từ 8 tuổi, kết thúc ở 80 tuổi. Tuổi mặc định là 25 tuổi.
+
+* Khi chọn một tỉnh thành, app sẽ hiển thị các quận huyện ở trong tỉnh thành đó. Khi Back lại màn chọn tỉnh thành, cell được chọn lúc trước vẫn hiển thị ở trạng thái Selected.
+
+* Lựa chọn giới tính bằng 1 combo 3 nút radio button: Nam, Nữ, Khác. Sử dụng PickerView để lựa chọn tuổi. Bắt đầu từ 8 tuổi, kết thúc ở 80 tuổi. Tuổi mặc định là 25 tuổi.
+<img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/4.%20General%20Selection.jpg" alt="Sapo Logo" max-width="100%" height="400px"/>
+
 * Hiển thị màn tổng kết: Tên, tuổi, giới tính, tỉnh thành, quận huyện. và Nút xác nhận Để login vào Màn Welcome của app. 
+<img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/5.%20Overall.jpg" alt="Sapo Logo" max-width="100%" height="400px"/>
+
+* Màn Welcome 
+<img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/6.%20welcome.jpg" alt="Sapo Logo" max-width="100%" height="400px"/>
+
+
 
 #### Một số lưu ý:
 * Các bạn có thể tham khảo tất cả các nguồn tài nguyên bạn có.
 * Vì bài Test được thiết kế cho nhiều Level khác nhau, bạn không nhất thiết phải hoàn thành được hết tất cả các bài Test.
-
-
 

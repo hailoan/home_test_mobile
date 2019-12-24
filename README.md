@@ -17,8 +17,9 @@
 ```
 <img  src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/1.%20Username%20Password.jpg" alt="Sapo Logo" max-width="100%" height="400px"/> 
 
+* Load dữ liệu các thành phố từ đường [Link](https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/Cities.json) và hiển thị lên như hình vẽ 
+<img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/1.%20Username%20Password.jpg" alt="Sapo Logo" max-width="100%" height="400px"/> 
 
-* Kiểm tra các trường nhập vào và chuyển sang màn chọn Tỉnh thành
 * Load dữ liệu từ plist lên để hiển thị danh sách các thành phố và các quận huyện.
 * Chọn một tỉnh thành, app sẽ chuyển sang màn thứ 3 để hiển thị các quận huyện ở trong tỉnh thành đó.
 * Back lại màn chọn tỉnh thành, cell được chọn lúc trước vẫn hiển thị ở trạng thái Selected.

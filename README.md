@@ -17,12 +17,15 @@
 ```
 <img  src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/1.%20Username%20Password.jpg" alt="Sapo Logo" max-width="100%" height="400px"/> 
 
-* Load dữ liệu các thành phố từ đường [Link](https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/Cities.json) và hiển thị lên như hình vẽ 
-<img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/1.%20Username%20Password.jpg" alt="Sapo Logo" max-width="100%" height="400px"/> 
+* Load dữ liệu các thành phố từ [Link](https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/Cities.json) và hiển thị lên như hình vẽ 
+<img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/2.%20City%20Selection.jpg" alt="Sapo Logo" max-width="100%" height="400px"/> 
 
-* Load dữ liệu từ plist lên để hiển thị danh sách các thành phố và các quận huyện.
-* Chọn một tỉnh thành, app sẽ chuyển sang màn thứ 3 để hiển thị các quận huyện ở trong tỉnh thành đó.
-* Back lại màn chọn tỉnh thành, cell được chọn lúc trước vẫn hiển thị ở trạng thái Selected.
+* Load dữ liệu các Quận huyện từ [Link](https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/Districts.json) và hiển thị lên như hình vẽ 
+
+<img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/3.%20Dictrict%20Selection.jpg" alt="Sapo Logo" max-width="100%" height="400px"/>
+* Khi chọn một tỉnh thành, app sẽ hiển thị các quận huyện ở trong tỉnh thành đó.
+* Khi Back lại màn chọn tỉnh thành, cell được chọn lúc trước vẫn hiển thị ở trạng thái Selected.
+
 * Lựa chọn giới tính bằng 1 combo 3 nút radio button: Nam, Nữ, Khác
 * Sử dụng PickerView để lựa chọn tuổi. Bắt đầu từ 8 tuổi, kết thúc ở 80 tuổi. Tuổi mặc định là 25 tuổi.
 * Hiển thị màn tổng kết: Tên, tuổi, giới tính, tỉnh thành, quận huyện. và Nút xác nhận Để login vào Màn Welcome của app. 

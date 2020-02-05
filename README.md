@@ -37,7 +37,7 @@
 <img style="display:block; text-align:center" src="https://raw.githubusercontent.com/sapo-tech/home_test_mobile/master/6.%20welcome.jpg" alt="Sapo Logo" max-width="100%" height="400px"/>
 
 
-* Đẩy dự án lên Git và gửi đường link cho chúng tôi theo địa chỉ: interviewer.tech@sapo.vn
+* Đẩy dự án lên Git và gửi đường link cho chúng tôi theo địa chỉ: tuyendung@sapo.vn
 
 #### Một số lưu ý:
 * Các bạn có thể tham khảo tất cả các nguồn tài nguyên bạn có.
